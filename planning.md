@@ -20,7 +20,7 @@ The domain is off-campus food and beverages around Princeton Univeristy. This kn
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | Yelp Ranking | Restaurants near Princeton University | https://www.tripadvisor.com/RestaurantsNear-g46756-d123115-Princeton_University-Princeton_New_Jersey.html|
+| 1 | TripAdvisor Ranking | Restaurants near Princeton University | https://www.tripadvisor.com/RestaurantsNear-g46756-d123115-Princeton_University-Princeton_New_Jersey.html|
 | 2 | Campus NewsLetter | Guide on big group dinners in Princeton |https://www.dailyprincetonian.com/article/2023/05/princeton-restaurant-food-guide-big-group-meals |
 | 3 | Reddit Thread |places to eat in Princeton |https://www.reddit.com/r/newjersey/comments/1avkq2k/princeton_eats/ |
 | 4 | Wanderlog's Ranking|  31 best cheap eats in Princeton|https://wanderlog.com/list/geoCategory/189404/best-cheap-eats-in-princeton |
@@ -40,11 +40,11 @@ The domain is off-campus food and beverages around Princeton Univeristy. This kn
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:**
+**Chunk size:** 200 tokens
 
-**Overlap:**
+**Overlap:** 10 tokens
 
-**Reasoning:**
+**Reasoning:** Generally, the documents are short because they are reddit threads, lists, and/or rankings. So, I opted for a chunk size that is slightly less than the example on Slide 24 because reddit threads and yelp rankings are less wordy/complex than the example on slide 24.
 
 ---
 
@@ -116,7 +116,7 @@ The domain is off-campus food and beverages around Princeton Univeristy. This kn
      with my specified chunk size and overlap" is a plan. -->
 
 **Milestone 3 — Ingestion and chunking:**
-
+I will use ChatGPT to clean the documents (remove nonessential tags/elements) and implement chunk_text() using my Chunking Strategy section
 **Milestone 4 — Embedding and retrieval:**
 
 **Milestone 5 — Generation and interface:**
