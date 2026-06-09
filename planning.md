@@ -12,7 +12,7 @@
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
 ---
-
+The domain is off-campus food and beverages around Princeton Univeristy. This knowledge is valuable because it will make off-campus dining more accessible: students will know prices, allergies, food restrictions, cuisines, etc that are available. It is hard to find information on off-campus dining options since these organizations are often no affiliated with the university. 
 ## Documents
 
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
@@ -20,16 +20,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Yelp Ranking | Restaurants near Princeton University | https://www.tripadvisor.com/RestaurantsNear-g46756-d123115-Princeton_University-Princeton_New_Jersey.html|
+| 2 | Campus NewsLetter | Guide on big group dinners in Princeton |https://www.dailyprincetonian.com/article/2023/05/princeton-restaurant-food-guide-big-group-meals |
+| 3 | Reddit Thread |places to eat in Princeton |https://www.reddit.com/r/newjersey/comments/1avkq2k/princeton_eats/ |
+| 4 | Wanderlog's Ranking|  31 best cheap eats in Princeton|https://wanderlog.com/list/geoCategory/189404/best-cheap-eats-in-princeton |
+| 5 | Reddit thread |cheap eats in Princeton with some prices|https://www.reddit.com/r/princeton/comments/wl5dpu/is_there_any_good_food_around_here_thats_not/ |
+| 6 | Trip Advisor| Desserts in Princeton |https://www.tripadvisor.com/Restaurants-g46756-zfg9909-Princeton_New_Jersey.html |
+| 7 | Uber Eats| food spots near Princeton with distance |https://www.ubereats.com/feed?diningMode=PICKUP&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMlByaW5jZXRvbiUyMFVuaXZlcnNpdHklMjIlMkMlMjJyZWZlcmVuY2UlMjIlM0ElMjJoZXJlJTNBcGRzJTNBcGxhY2UlM0E4NDBkcjR2ay04YmVjMTE3MWVmODA0Mjk4OWY5YWU1N2IxOTkzZTBiYiUyMiUyQyUyMnJlZmVyZW5jZVR5cGUlMjIlM0ElMjJoZXJlX3BsYWNlcyUyMiUyQyUyMmxhdGl0dWRlJTIyJTNBNDAuMzQ5NzMlMkMlMjJsb25naXR1ZGUlMjIlM0EtNzQuNjYwMTElN0Q%3D |
+| 8 | Campus NewsLetter| New halal options | https://www.dailyprincetonian.com/article/2026/03/princeton-news-stlife-new-restaurants-expand-halal-dining-options-princeton|
+| 9 | Student Guide| Plant-Based options on-campus and off-campus|https://sustain.princeton.edu/sites/g/files/toruqf6606/files/The%20Definitive%20Guide%20to%20Being%20Plant-Based%20At%20Princeton.pdf |
+| 10 | University Website | Places were University dining points ae transferred|https://tigercard.princeton.edu/points#Where-Are-Points-Accepted- |
 
 ---
 
